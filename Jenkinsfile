@@ -1,7 +1,7 @@
 pipeline {
   agent any
   tools {
-    maven "MAVEN_HOME-3.6.3"
+    maven "Maven_HOME-3.6.3"
   }
   
     //each branch has 1 job running at a time
